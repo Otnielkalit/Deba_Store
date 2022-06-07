@@ -53,7 +53,7 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.html" class="logo">
+                        <a href="/" class="logo">
                             <img src="img/deba.png" width="100px" align="klassy cafe html template">
                         </a>
                         <!-- ***** Logo End ***** -->
@@ -74,15 +74,6 @@
                             -->
                             <li class="scroll-to-section"><a href="#menu">Menu</a></li>
                             <li class="scroll-to-section"><a href="#chefs">Agen</a></li>
-                            <li class="submenu">
-                                <a href="javascript:;">Features</a>
-                                <ul>
-                                    <li><a href="#">Features Page 1</a></li>
-                                    <li><a href="#">Features Page 2</a></li>
-                                    <li><a href="#">Features Page 3</a></li>
-                                    <li><a href="#">Features Page 4</a></li>
-                                </ul>
-                            </li>
                             <!-- <li class=""><a rel="sponsored" href="https://templatemo.com" target="_blank">External URL</a></li> -->
                             <li class="scroll-to-section"><a href="#reservation">Contact Us</a></li>
                             <li>
@@ -142,7 +133,7 @@
                             <img src="img/deba.png" width="150px">
                             <h6>Molo so hita bah ise be?</h6>
                             <div class="main-white-button scroll-to-section">
-                                <a href="#reservation">Make A Reservation</a>
+                                <a href="#reservation">Pesan Tempat</a>
                             </div>
                         </div>
                     </div>
@@ -187,7 +178,6 @@
                     <div class="left-text-content">
                         <div class="section-heading">
                             <h6>About Us</h6>
-                            <h2>We Leave A Delicious Memory For You</h2>
                         </div>
                         <p>Ijinkan kami memperkenalkan diri dari UMKM <strong>deba group</strong>Desa Hutapaung Kecamatan Polllung, Kabupaten Humbang Hasundutan Provinsi Sumatera Utara (profile terlampir). Adapun UMKM ‘deba group’ saya dirikan awalnya untuk menggali potensi lokal di desa kami, serta memperkenalkan potensi tersebut ke luar.
                             Berawal dari akhir 2016 kami membuka bisnis sarapan pagi, serta membuka Loket Pengiriman JNE Express Pollung. Kemudian akhir 2017, usaha sarapan pagi tersebut kami tingkatkan menjadi Rumah Makan Nasional (Lapo Mangan Nasional).
@@ -250,13 +240,13 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="logo">
-                        <img width="180px" src="img/deba.png" alt="">
+                        <p style="color: rgb(249, 249, 249)">QRIS</p>
+                        <img width="100px" src="img/qris.jpeg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-xs-12">
                     <div class="left-text-content">
-                        <p>© Copyright Deba Store
-                        </p>
+                        <p>© Copyright Deba Store</p>
                     </div>
                 </div>
             </div>
