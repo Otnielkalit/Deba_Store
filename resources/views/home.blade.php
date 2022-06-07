@@ -189,22 +189,22 @@
                             <h6>About Us</h6>
                             <h2>We Leave A Delicious Memory For You</h2>
                         </div>
-                        <p>Klassy Cafe is one of the best <a href="https://templatemo.com/tag/restaurant"
-                                target="_blank" rel="sponsored">restaurant HTML templates</a> with Bootstrap v4.5.2 CSS
-                            framework. You can download and feel free to use this website template layout for your
-                            restaurant business. You are allowed to use this template for commercial purposes.
-                            <br><br>You are NOT allowed to redistribute the template ZIP file on any template donwnload
-                            website. Please contact us for more information.
+                        <p>Ijinkan kami memperkenalkan diri dari UMKM <strong>deba group</strong>Desa Hutapaung Kecamatan Polllung, Kabupaten Humbang Hasundutan Provinsi Sumatera Utara (profile terlampir). Adapun UMKM ‘deba group’ saya dirikan awalnya untuk menggali potensi lokal di desa kami, serta memperkenalkan potensi tersebut ke luar.
+                            Berawal dari akhir 2016 kami membuka bisnis sarapan pagi, serta membuka Loket Pengiriman JNE Express Pollung. Kemudian akhir 2017, usaha sarapan pagi tersebut kami tingkatkan menjadi Rumah Makan Nasional (Lapo Mangan Nasional).
+                            Diawal 2018 melihat begitu besarnya potensi hasil Pertanian di kampung serta cuaca yang sejuk/dingin, kami menambah jasa menjadi Kode Kopi (coffeeshop speciality) serta mengeluarkan produk baru berupa BANDREK ANDALIMAN segar/cair.
+                            Untuk meningkatkan penjualan kami mencoba memproduksi Bandrek andaliman tersebut dalam bentuk bubuk dalam kemasan sachet pcs, dan ternyata mendapat respon baik dari masyarakat. Jaringan UMKM semakin terjalin dengan adanya JNE yg semakin mempermudah distribusi #Bandal ke beberapa daerah. Perijinan dan lainnya kami lengkapi, merk kami daftarkan di Kemenhumham.
+                            Kemudian kami terkendala di harga produksi yang agak tinggi dikarenakan masih di skala mikro/kecil. Untuk meningkatkan quantity dan menurunkan biaya produksi kami terkendala alat (mesin sachet & sealer) serta modal untuk beli bahan baku agar biaya produksi semakin kecil dan harga jual sesuai dengan keinginan konsumen.
+
                         </p>
                         <div class="row">
                             <div class="col-4">
-                                <img src="assets/images/about-thumb-01.jpg" alt="">
+                                <img src="img/gmb1.jpg" alt="">
                             </div>
                             <div class="col-4">
-                                <img src="assets/images/about-thumb-02.jpg" alt="">
+                                <img src="img/gmb2.jpg" alt="">
                             </div>
                             <div class="col-4">
-                                <img src="assets/images/about-thumb-03.jpg" alt="">
+                                <img src="img/gmb3.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -213,7 +213,7 @@
                     <div class="right-content">
                         <div class="thumb">
                             <a rel="nofollow" href="http://youtube.com"><i class="fa fa-play"></i></a>
-                            <img src="assets/images/about-video-bg.jpg" alt="">
+                            <img src="img/gmb2.jpg" alt="">
                         </div>
                     </div>
                 </div>
