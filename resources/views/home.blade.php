@@ -250,14 +250,12 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/white-logo.png" alt=""></a>
+                        <img width="180px" src="img/deba.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-xs-12">
                     <div class="left-text-content">
-                        <p>© Copyright Klassy Cafe Co.
-
-                            <br>Design: TemplateMo
+                        <p>© Copyright Deba Store
                         </p>
                     </div>
                 </div>

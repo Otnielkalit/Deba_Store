@@ -147,7 +147,7 @@ body {
 
 .main-white-button a {
   font-size: 13px;
-  color: #fb5849;
+  color: #4949fb;
   background-color: #fff;
   padding: 12px 25px;
   display: inline-block;
@@ -1308,7 +1308,7 @@ reservation
   margin-top: -10px;
   font-size: 13px;
   color: #fff;
-  background-color: #fb5849;
+  background-color: #5580ab;
   padding: 12px 25px;
   width: 100%;
   box-shadow: none;
@@ -1470,7 +1470,7 @@ footer
 footer {
   margin-top: 60px;
   padding: 50px 0px;
-  background-color: #fb5849;
+  background-color: #666160;
 }
 
 footer .left-text-content p {
