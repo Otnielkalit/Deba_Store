@@ -75,7 +75,7 @@
                             <li class="scroll-to-section"><a href="#menu">Menu</a></li>
                             <li class="scroll-to-section"><a href="#chefs">Agen</a></li>
                             <!-- <li class=""><a rel="sponsored" href="https://templatemo.com" target="_blank">External URL</a></li> -->
-                            <li class="scroll-to-section"><a href="#reservation">Contact Us</a></li>
+                            <li class="scroll-to-section"><a href="#reservation">Hubungi kami</a></li>
                             <li>
                                     @auth
                                     <a class="nav-link" href="{{ url('showcart', Auth::user()->id) }}">
