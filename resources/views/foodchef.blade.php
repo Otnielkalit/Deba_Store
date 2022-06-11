@@ -5,7 +5,7 @@
             <div class="col-lg-4 offset-lg-4 text-center">
                 <div class="section-heading">
                     <h6>Agen & Pelayan DebaStore</h6>
-                    <h2>Bisa juga pesan melalui kami</h2>
+                    <h2>Ayooo join sekarang</h2>
                 </div>
             </div>
         </div>
