@@ -72,11 +72,11 @@
                                     </ul>
                                 </li>
                             -->
-                            <li class="scroll-to-section"><a href="#menu">Minuman</a></li>
-                            <li class="scroll-to-section"><a href="#menu">Catering</a></li>
-                            <li class="scroll-to-section"><a href="#menu">Sayuran</a></li>
-                            <li class="scroll-to-section"><a href="#menu">Seafood</a></li>
-                            <li class="scroll-to-section"><a href="#chefs">DEL</a></li>
+                            <li class="scroll-to-section"><a href="#menu">Menu</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">Agen</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">Pelayan</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">reseller</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">Food</a></li>
                             <!-- <li class=""><a rel="sponsored" href="https://templatemo.com" target="_blank">External URL</a></li> -->
                             <li class="scroll-to-section"><a href="#reservation">Hubungi kami</a></li>
                             <li>
