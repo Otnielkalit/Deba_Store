@@ -74,8 +74,11 @@
                             -->
                             <li class="scroll-to-section"><a href="#menu">Menu</a></li>
                             <li class="scroll-to-section"><a href="#chefs">Agen</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">Pelayan</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">reseller</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">Food</a></li>
                             <!-- <li class=""><a rel="sponsored" href="https://templatemo.com" target="_blank">External URL</a></li> -->
-                            <li class="scroll-to-section"><a href="#reservation">Contact Us</a></li>
+                            <li class="scroll-to-section"><a href="#reservation">Hubungi kami</a></li>
                             <li>
                                     @auth
                                     <a class="nav-link" href="{{ url('showcart', Auth::user()->id) }}">
@@ -246,6 +249,8 @@
                 </div>
                 <div class="col-lg-4 col-xs-12">
                     <div class="left-text-content">
+                        <p>© Copyright Deba Store</p>
+                        <p>© Copyright Deba Store</p>
                         <p>© Copyright Deba Store</p>
                     </div>
                 </div>
